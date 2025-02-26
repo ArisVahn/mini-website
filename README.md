@@ -32,7 +32,7 @@ In this project, I tackled a few things that are now second nature to me:
 
 ## 🔮 Next Steps
 
-While I’ve polished up this website with a bunch of CSS tricks, I know it’s still just a static page. In the future, I’m looking to integrate JavaScript for more interactivity. But for now, it's all about that stylish, gradient-filled aesthetic.
+It'll be hosted properly, where we can use server side actions to use the website's functions to the max. For example, Github Pages does not allow form methods, so my contact page gives 405 error.
 
 ## 🤝 Contributing
 
