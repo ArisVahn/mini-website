@@ -28,6 +28,7 @@ In this project, I tackled a few things that are now second nature to me:
     ```
 2. Open the project folder.
 3. Open `index.html` in your browser to see the magic unfold.
+4. Delete "/mini-website" from all page and image links. I discovered a script solution for it, but it didn't feel right to add it without getting there at The Odin Project.
 
 ## 🔮 Next Steps
 
